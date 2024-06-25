@@ -1,0 +1,105 @@
+.features .main-feature{
+    display: flex;
+    color: #ffffff;
+    width: 90%;
+    background: #282828;
+    margin: 5px auto;
+
+
+
+}
+.features {
+        padding-left: 10%;
+     padding-right: 10%;
+}
+.features img{
+
+    width: 50%;
+}
+.lava{
+     opacity: 0.5;
+}
+
+.features p{
+    color: #7A7A7A;
+    padding: 60px;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.features-container{
+    opacity: 0.7;
+    display: flex;
+
+
+    margin: 5px 15px;
+    justify-content: space-between;
+    text-align: center;
+    position: relative;
+    top: -110px;
+
+}
+
+.features-container img{
+  transition: 0.4s;
+    width: 100px;
+
+
+
+}
+
+.scent{
+    margin-top: -10px;
+       padding: 30px;
+    border-radius: 35%;
+
+
+}
+
+.endless-h1{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+
+.endless-p{
+    margin-top: -40px;
+
+}
+
+.scent-h1{
+    color: red;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+
+.scent-p{
+     margin-top: -40px;
+}
+
+.unique-h1{
+      color: red;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+.unique-logo{
+    margin: 5px;
+}
+.unique-p{
+    margin-top: -40px;
+}
+
+.balance-h1{
+     color: red;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+}
+
+.balance-p{
+    margin-top: -40px;
+}
+
